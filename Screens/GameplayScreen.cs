@@ -55,9 +55,10 @@ namespace GameProject3.Screens
         private SoundEffect pkSound;
         private SoundEffect pkHit;
         private Song backgroundMusic;
+        private float volume;
 
 
-        public GameplayScreen()
+        public GameplayScreen(float volume)
         {
             TransitionOnTime = TimeSpan.FromSeconds(1.5);
             TransitionOffTime = TimeSpan.FromSeconds(0.5);
@@ -66,7 +67,7 @@ namespace GameProject3.Screens
                 new[] { Buttons.Start, Buttons.Back },
                 new[] { Keys.Back, Keys.Escape }, true);
 
-            
+            this.volume = volume;
 
         }
 
@@ -115,7 +116,8 @@ namespace GameProject3.Screens
             pkSound = _content.Load<SoundEffect>("PenguinShoot");
             pkHit = _content.Load<SoundEffect>("hit2");
             backgroundMusic = _content.Load<Song>("AIGeneratedBGM");
-            MediaPlayer.Volume = 0.3f;
+            MediaPlayer.Volume = 0.3f * volume/10;
+            SoundEffect.MasterVolume = volume / 10;
             MediaPlayer.IsRepeating = true;
             MediaPlayer.Play(backgroundMusic);
         }

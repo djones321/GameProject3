@@ -6,6 +6,9 @@ namespace GameProject3.Screens
     // The main menu screen is the first thing displayed when the game starts up.
     public class MainMenuScreen : MenuScreen
     {
+        public float volume=10;
+        OptionsMenuScreen options = new OptionsMenuScreen();
+
         public MainMenuScreen() : base("Main Menu")
         {
             var playGameMenuEntry = new MenuEntry("Play Game");
@@ -23,12 +26,13 @@ namespace GameProject3.Screens
 
         private void PlayGameMenuEntrySelected(object sender, PlayerIndexEventArgs e)
         {
-            LoadingScreen.Load(ScreenManager, true, e.PlayerIndex, new GameplayScreen());//, new CutSceneScreen());
+            volume = options.volume;
+            LoadingScreen.Load(ScreenManager, true, e.PlayerIndex, new GameplayScreen(volume));//, new CutSceneScreen());
         }
 
         private void OptionsMenuEntrySelected(object sender, PlayerIndexEventArgs e)
         {
-            ScreenManager.AddScreen(new OptionsMenuScreen(), e.PlayerIndex);
+            ScreenManager.AddScreen(options, e.PlayerIndex);
         }
 
         protected override void OnCancel(PlayerIndex playerIndex)

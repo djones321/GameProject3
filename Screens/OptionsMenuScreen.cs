@@ -1,4 +1,5 @@
-﻿
+﻿using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Media;
 
 namespace GameProject3.Screens
 {
@@ -23,7 +24,7 @@ namespace GameProject3.Screens
         private static readonly string[] Languages = { "C#", "French", "Deoxyribonucleic acid" };
         private static int _currentLanguage;
         private static bool _frobnicate = true;
-        private static int _elf = 23;
+        public float volume = 10;
 
         public OptionsMenuScreen() : base("Options")
         {
@@ -55,7 +56,7 @@ namespace GameProject3.Screens
             _ungulateMenuEntry.Text = $"Preferred ungulate: {_currentUngulate}";
             _languageMenuEntry.Text = $"Language: {Languages[_currentLanguage]}";
             _frobnicateMenuEntry.Text = $"Frobnicate: {(_frobnicate ? "on" : "off")}";
-            _elfMenuEntry.Text = $"elf: {_elf.ToString()}";
+            _elfMenuEntry.Text = $"elf: {volume.ToString()}";
         }
 
         private void UngulateMenuEntrySelected(object sender, PlayerIndexEventArgs e)
@@ -82,7 +83,13 @@ namespace GameProject3.Screens
 
         private void ElfMenuEntrySelected(object sender, PlayerIndexEventArgs e)
         {
-            _elf++;
+            volume++;
+            if(volume > 10)
+            {
+                volume = 0;
+            }
+
+            SoundEffect.MasterVolume = .3f * volume/10;
             SetMenuEntryText();
         }
     }
