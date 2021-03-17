@@ -1,0 +1,9 @@
+Content/Bangers/Bangers-Regular.ttf - Bangers font created by Vernon Adams, released on Google Fonts (https://fonts.google.com/specimen/Bangers) under the Open Font License
+Content/AIGeneratedBGM.mp3 - Generated under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license at https://computoser.com 
+All other assets created by Damon Jones using paint.net or https://jfxr.frozenfractal.com/
+
+All assets from the MonoGame port of the XNA Game State Management Sample, available at:
+
+https://github.com/tomizechsterson/game-state-management-monogame
+
+and relased under the MIT License
