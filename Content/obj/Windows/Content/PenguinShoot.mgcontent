@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/Files/CSDocs/cis580/GameProject3/Content/PenguinShoot.wav</SourceFile>
+  <SourceTime>2021-03-02T18:19:07.2041138-06:00</SourceTime>
+  <DestFile>F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/PenguinShoot.xnb</DestFile>
+  <DestTime>2021-03-16T23:44:13.9561569-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

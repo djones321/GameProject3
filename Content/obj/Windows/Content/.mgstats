@@ -1,0 +1,23 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"F:/Files/CSDocs/cis580/GameProject3/Content/AIGeneratedBGM.mp3","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/AIGeneratedBGM.xnb","SongProcessor","SongContent",1717634,132,1.7230953
+"F:/Files/CSDocs/cis580/GameProject3/Content/background.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/background.xnb","TextureProcessor","Texture2DContent",67016,1536085,0.2097135
+"F:/Files/CSDocs/cis580/GameProject3/Content/bangers.spritefont","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/bangers.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.1172213
+"F:/Files/CSDocs/cis580/GameProject3/Content/bangers2.spritefont","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/bangers2.xnb","FontDescriptionProcessor","SpriteFontContent",2008,136226,0.0296872
+"F:/Files/CSDocs/cis580/GameProject3/Content/blank.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/blank.xnb","TextureProcessor","Texture2DContent",187,149,0.0017788
+"F:/Files/CSDocs/cis580/GameProject3/Content/DragonShoot.wav","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/DragonShoot.xnb","SoundEffectProcessor","SoundEffectContent",7982,8043,0.1563804
+"F:/Files/CSDocs/cis580/GameProject3/Content/DragonSprite.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/DragonSprite.xnb","TextureProcessor","Texture2DContent",1681,49237,0.0115413
+"F:/Files/CSDocs/cis580/GameProject3/Content/DragonSprite2.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/DragonSprite2.xnb","TextureProcessor","Texture2DContent",1971,65621,0.003774
+"F:/Files/CSDocs/cis580/GameProject3/Content/Feesh.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/Feesh.xnb","TextureProcessor","Texture2DContent",654,16469,0.0022803
+"F:/Files/CSDocs/cis580/GameProject3/Content/Fireball.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/Fireball.xnb","TextureProcessor","Texture2DContent",2981,16469,0.0028982
+"F:/Files/CSDocs/cis580/GameProject3/Content/gamefont.spritefont","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/gamefont.xnb","FontDescriptionProcessor","SpriteFontContent",425,70690,0.1295584
+"F:/Files/CSDocs/cis580/GameProject3/Content/gradient.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/gradient.xnb","TextureProcessor","Texture2DContent",258,341,0.0013167
+"F:/Files/CSDocs/cis580/GameProject3/Content/hit.wav","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/hit.xnb","SoundEffectProcessor","SoundEffectContent",13274,13335,0.1499319
+"F:/Files/CSDocs/cis580/GameProject3/Content/hit2.wav","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/hit2.xnb","SoundEffectProcessor","SoundEffectContent",36206,36267,0.151766
+"F:/Files/CSDocs/cis580/GameProject3/Content/liftoff_of_smap.mp4","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/liftoff_of_smap.xnb","VideoProcessor","VideoContent",19672249,253,0.1862907
+"F:/Files/CSDocs/cis580/GameProject3/Content/Lil_D_Body1.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/Lil_D_Body1.xnb","TextureProcessor","Texture2DContent",469,16469,0.003
+"F:/Files/CSDocs/cis580/GameProject3/Content/Lil_Dragon_Head1.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/Lil_Dragon_Head1.xnb","TextureProcessor","Texture2DContent",737,16469,0.0023796
+"F:/Files/CSDocs/cis580/GameProject3/Content/Mecheval.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/Mecheval.xnb","TextureProcessor","Texture2DContent",3277,16469,0.002051
+"F:/Files/CSDocs/cis580/GameProject3/Content/menufont.spritefont","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/menufont.xnb","FontDescriptionProcessor","SpriteFontContent",428,37922,0.0281836
+"F:/Files/CSDocs/cis580/GameProject3/Content/PenguinKing.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/PenguinKing.xnb","TextureProcessor","Texture2DContent",4550,131157,0.0059253
+"F:/Files/CSDocs/cis580/GameProject3/Content/PenguinShoot.wav","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/PenguinShoot.xnb","SoundEffectProcessor","SoundEffectContent",6220,6281,0.1405958
+"F:/Files/CSDocs/cis580/GameProject3/Content/splash.png","F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/splash.xnb","TextureProcessor","Texture2DContent",31452,1553365,0.0493948

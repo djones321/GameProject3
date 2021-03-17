@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/AIGeneratedBGM.mp3</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/background.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/bangers.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/bangers2.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/blank.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/DragonShoot.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/DragonSprite.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/DragonSprite2.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/Feesh.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/Fireball.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/gamefont.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/gradient.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/hit.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/hit2.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/liftoff_of_smap.mp4</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/Lil_D_Body1.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/Lil_Dragon_Head1.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/Mecheval.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/menufont.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/PenguinKing.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/PenguinShoot.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject3/Content/splash.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/Files/CSDocs/cis580/GameProject3/Content/liftoff_of_smap.mp4</SourceFile>
+  <SourceTime>2021-03-04T17:59:23.0016233-06:00</SourceTime>
+  <DestFile>F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/liftoff_of_smap.xnb</DestFile>
+  <DestTime>2021-03-16T21:38:11.7598155-05:00</DestTime>
+  <Importer>H264Importer</Importer>
+  <ImporterTime>2020-08-10T16:17:54-05:00</ImporterTime>
+  <Processor>VideoProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-05:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>F:/Files/CSDocs/cis580/GameProject3/Content/bin/Windows/Content/liftoff_of_smap.mp4</string>
+  </BuildOutput>
+</PipelineBuildEvent>
